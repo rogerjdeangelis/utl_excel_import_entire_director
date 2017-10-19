@@ -45,7 +45,7 @@ Import an entire directory of excel files. Big data analytics. Machine learning.
     ```  ===========================================                                                                                                                  ```
     ```                                                                                                                                                               ```
     ```   Create datasets                                                                                                                                             ```
-    ```                                                                                                                                                               ```
+    ```     WORK.LOG                                                                                                                                                    ```
     ```     WORK.CARS                                                                                                                                                 ```
     ```     WORK.CLASS                                                                                                                                                ```
     ```     WORK.IRIS                                                                                                                                                 ```
